@@ -1,3 +1,11 @@
+# React Mocking Http Requests with Nock
+
+This repository tests HTTP Request mocking with the [nock package](https://www.npmjs.com/package/nock). It follows [these tips](https://medium.com/reactbrasil/exemplo-de-teste-de-alto-n%C3%ADvel-com-react-testing-library-5c001e89d493).
+
+
+
+## Original README.md
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
