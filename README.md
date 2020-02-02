@@ -2,6 +2,7 @@
 
 This repository tests HTTP Request mocking with the [nock package](https://www.npmjs.com/package/nock). It follows [these tips](https://medium.com/reactbrasil/exemplo-de-teste-de-alto-n%C3%ADvel-com-react-testing-library-5c001e89d493).
 
+The main files are [src/App.js](./src/App.js) and [src/App.test.js](./src/App.test.js).
 
 
 ## Original README.md
